@@ -2,3 +2,4 @@ Vim is awesome.
 Emacs is actually OK.
 
 One more line here.
+second line.
