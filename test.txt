@@ -1,2 +1,2 @@
-Emacs is awesome.
-Vim sucks!!!!!
+Vim is awesome.
+Emacs is actually OK.
