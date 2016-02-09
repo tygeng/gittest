@@ -1,5 +1,4 @@
 Vim is awesome.
-Emacs sucks.
+Emacs is actually OK.
 
-lalala
-lalala
+One more line here.
